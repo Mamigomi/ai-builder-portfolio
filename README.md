@@ -95,3 +95,10 @@ Key Features
 - Exam material processing
 - Blog content workflows
 - Infographic generation
+
+- ## Current Projects
+
+- AI Stock Trading System
+- English Vocabulary Survival Game
+- Educational Content Automation
+- AI Workflow Development
