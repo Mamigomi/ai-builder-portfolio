@@ -8,7 +8,7 @@ I build practical AI-powered systems and educational products using ChatGPT and 
 
 ### 1. AI Stock Trading System
 
-- Developed an automated stock trading system
+- Building an AI-assisted stock trading system
 - Real-time monitoring and logging
 - Telegram notification integration
 - Continuous strategy improvement
