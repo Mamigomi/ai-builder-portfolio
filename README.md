@@ -50,3 +50,48 @@ I build practical AI-powered systems and educational products using ChatGPT and 
 ## Current Focus
 
 Building practical AI-powered systems that generate real-world value through automation and education.
+
+
+
+## Project Evidence
+
+### AI Stock Trading System
+
+Status: Active Development
+
+Key Features
+
+- Automated trading workflow
+- Real-time log monitoring
+- Telegram alert integration
+- Continuous performance optimization
+
+Development Period
+
+- 2025 ~ Present
+
+---
+
+### English Vocabulary Survival Game
+
+Status: Prototype Completed
+
+Key Features
+
+- Interactive learning game
+- Mobile-first UI
+- Vocabulary dataset integration
+- AI-assisted development
+
+---
+
+### Educational Content Automation
+
+Status: Active
+
+Key Features
+
+- Vocabulary extraction
+- Exam material processing
+- Blog content workflows
+- Infographic generation
