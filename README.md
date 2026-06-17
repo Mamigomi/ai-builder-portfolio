@@ -74,7 +74,7 @@ Development Period
 
 ### English Vocabulary Survival Game
 
-Status: Prototype Completed
+Status: Playable Prototype
 
 Key Features
 
